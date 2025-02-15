@@ -12,7 +12,7 @@ This repository contains my **DevOps learning notes** covering essential tools a
 ---
 
 ## 🐧 Linux
-- [Basic Commands](Linux/basic-commands.md)
+- [Basic Commands](Linux/Basic-Commands.md)
 - [Shell Scripting](Linux/shell-scripting.md)
 - [Permissions & Ownership](Linux/permissions.md)
 
