@@ -4,10 +4,10 @@ This repository contains my **DevOps learning notes** covering essential tools a
 
 ## 📂 Table of Contents
 - [Linux](Linux)
-- [Git](#git-git)
-- [Docker](#whale-docker)
-- [Kubernetes](#kubernetes)
-- [CI/CD](#gear-ci/cd)
+- [Git](Git)
+- [Docker](Docker)
+- [Kubernetes](Kubernetes)
+- [CI/CD](CI-CD)
 
 ---
 
