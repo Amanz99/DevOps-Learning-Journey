@@ -3,7 +3,7 @@
 This repository contains my **DevOps learning notes** covering essential tools and technologies such as **Linux, Git, Docker, Kubernetes, CI/CD, and more**.  
 
 ## 📂 Table of Contents
-- [Linux](#penguin-linux)
+- [Linux](Linux)
 - [Git](#git-git)
 - [Docker](#whale-docker)
 - [Kubernetes](#kubernetes)
