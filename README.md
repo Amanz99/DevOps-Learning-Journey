@@ -32,7 +32,6 @@ This repository contains my **DevOps learning notes** covering essential tools a
 - [Services & Load Balancing](Kubernetes/services.md)
 
 ## ⚙️ CI/CD
-- [Jenkins](CI-CD/jenkins.md)
 - [GitHub Actions](CI-CD/github-actions.md)
 - [GitLab CI/CD](CI-CD/gitlab-ci.md)
 
