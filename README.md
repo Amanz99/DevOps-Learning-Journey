@@ -23,7 +23,7 @@ This repository contains my **DevOps learning notes** covering essential tools a
 
 ## 🐳 Docker
 - [Docker Basics](Docker/docker-basics.md)
-- [Advanced Docker_Commands](Docker/Advanced-Docker-Commands.md)
+- [Advanced_Docker_Commands](Docker/Advanced-Docker-Commands.md)
 - [Docker Compose](Docker/docker-compose.md)
 - [Networking in Docker](Docker/docker-networking.md)
 
