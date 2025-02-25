@@ -22,7 +22,7 @@ This repository contains my **DevOps learning notes** covering essential tools a
 - [Rebase vs Merge](Git/git-rebase-vs-merge.md)
 
 ## 🐳 Docker
-- [Docker Basics](Docker/docker-basics.md)
+- [Docker Basics](Docker/Basic-Commands.md)
 - [Advanced_Docker_Commands](Docker/Advanced-Docker-Commands.md)
 - [Docker Compose](Docker/docker-compose.md)
 - [Networking in Docker](Docker/docker-networking.md)
