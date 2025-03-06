@@ -1,7 +1,7 @@
 # Terraform Basics: What It Is and Why It’s Important
 
 ## What is Terraform?  
-Terraform is an **Infrastructure as Code (IaC)** tool that allows DevOps teams to automate the provisioning and management of cloud infrastructure. It helps create, modify, and manage resources across various cloud providers like AWS, Azure, and Google Cloud using a code.  
+Terraform is an Infrastructure as Code (IaC) tool that allows DevOps teams to automate the provisioning and management of cloud infrastructure. It helps create, modify, and manage resources across various cloud providers like AWS, Azure, and Google Cloud using a code.  
 
 ## Why is Terraform Important?  
 - **Automation & Efficiency** – Eliminates manual infrastructure management by automating deployments.  
